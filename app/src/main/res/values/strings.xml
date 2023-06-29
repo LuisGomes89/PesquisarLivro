@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Biblioteca</string>
+    <string name="menu_about_title">Sobre</string>
+    <string name="about_message">Versão do aplicativo: %s</string>
+</resources>
